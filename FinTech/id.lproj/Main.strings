@@ -1,0 +1,162 @@
+
+/* Class = "UIButton"; normalTitle = "Indonesia"; ObjectID = "05g-ap-gzR"; */
+"05g-ap-gzR.normalTitle" = "Indonesia";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "05l-cw-IIG"; */
+"05l-cw-IIG.title" = "Back";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "0mj-Wt-kzf"; */
+"0mj-Wt-kzf.text" = "Label";
+
+/* Class = "UILabel"; text = "Zip Code"; ObjectID = "14j-lw-cRg"; */
+"14j-lw-cRg.text" = "Zip Code";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "42n-Xd-UJU"; */
+"42n-Xd-UJU.text" = "Label";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "5aP-dA-FoI"; */
+"5aP-dA-FoI.text" = "Email";
+
+/* Class = "UILabel"; text = "Unit Number / Floor"; ObjectID = "6g9-Rn-OgS"; */
+"6g9-Rn-OgS.text" = "Unit Number / Floor";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "8FL-nZ-Fn4"; */
+"8FL-nZ-Fn4.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "90d-vN-64b"; */
+"90d-vN-64b.text" = "Label";
+
+/* Class = "UILabel"; text = "Address 1"; ObjectID = "9xV-qm-gU2"; */
+"9xV-qm-gU2.text" = "Address 1";
+
+/* Class = "UILabel"; text = "Loaded by FirstViewController"; ObjectID = "A5M-7J-77L"; */
+"A5M-7J-77L.text" = "Loaded by FirstViewController";
+
+/* Class = "UINavigationItem"; title = "Profile Verification"; ObjectID = "AFI-QU-b8g"; */
+"AFI-QU-b8g.title" = "Profile Verification";
+
+/* Class = "UIBarButtonItem"; title = "Next"; ObjectID = "Chf-9a-lEY"; */
+"Chf-9a-lEY.title" = "Next";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "E9e-qk-CPz"; */
+"E9e-qk-CPz.text" = "Label";
+
+/* Class = "UILabel"; text = "Gender"; ObjectID = "HoY-LL-j7N"; */
+"HoY-LL-j7N.text" = "Gender";
+
+/* Class = "UINavigationItem"; title = "Dashboard"; ObjectID = "JAP-vb-tpA"; */
+"JAP-vb-tpA.title" = "Dashboard";
+
+/* Class = "UINavigationItem"; title = "Profile Verification"; ObjectID = "K66-t5-7Sg"; */
+"K66-t5-7Sg.title" = "Profile Verification";
+
+/* Class = "UILabel"; text = "First View"; ObjectID = "KQZ-1w-vlD"; */
+"KQZ-1w-vlD.text" = "First View";
+
+/* Class = "UILabel"; text = "Upload"; ObjectID = "MMh-Dq-CWc"; */
+"MMh-Dq-CWc.text" = "Upload";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "N2w-Qp-cgg"; */
+"N2w-Qp-cgg.text" = "Label";
+
+/* Class = "UILabel"; text = "Loaded by SecondViewController"; ObjectID = "NDk-cv-Gan"; */
+"NDk-cv-Gan.text" = "Loaded by SecondViewController";
+
+/* Class = "UINavigationItem"; title = "Profile Verification"; ObjectID = "OhS-dV-njn"; */
+"OhS-dV-njn.title" = "Profile Verification";
+
+/* Class = "UILabel"; text = "ID Number"; ObjectID = "PaX-Qf-azI"; */
+"PaX-Qf-azI.text" = "ID Number";
+
+/* Class = "UILabel"; text = "Citizenship"; ObjectID = "RDa-qY-3NM"; */
+"RDa-qY-3NM.text" = "Citizenship";
+
+/* Class = "UIBarButtonItem"; title = "Next"; ObjectID = "Rcb-MY-csN"; */
+"Rcb-MY-csN.title" = "Next";
+
+/* Class = "UINavigationItem"; title = "Portfolio"; ObjectID = "Spf-Ro-gpR"; */
+"Spf-Ro-gpR.title" = "Portfolio";
+
+/* Class = "UILabel"; text = "KTP"; ObjectID = "TCf-67-mkg"; */
+"TCf-67-mkg.text" = "KTP";
+
+/* Class = "UISegmentedControl"; W3e-Sz-PzD.segmentTitles[0] = "Male"; ObjectID = "W3e-Sz-PzD"; */
+"W3e-Sz-PzD.segmentTitles[0]" = "Male";
+
+/* Class = "UISegmentedControl"; W3e-Sz-PzD.segmentTitles[1] = "Female"; ObjectID = "W3e-Sz-PzD"; */
+"W3e-Sz-PzD.segmentTitles[1]" = "Female";
+
+/* Class = "UISegmentedControl"; W3e-Sz-PzD.segmentTitles[2] = "Others"; ObjectID = "W3e-Sz-PzD"; */
+"W3e-Sz-PzD.segmentTitles[2]" = "Others";
+
+/* Class = "UILabel"; text = "Address 2"; ObjectID = "YJ8-WI-hT7"; */
+"YJ8-WI-hT7.text" = "Address 2";
+
+/* Class = "UILabel"; text = "State"; ObjectID = "ZWk-sG-6ai"; */
+"ZWk-sG-6ai.text" = "State";
+
+/* Class = "UIBarButtonItem"; title = "Next"; ObjectID = "ZXH-4A-yKy"; */
+"ZXH-4A-yKy.title" = "Next";
+
+/* Class = "UITabBarItem"; title = "Dashboard"; ObjectID = "acW-dT-cKf"; */
+"acW-dT-cKf.title" = "Dashboard";
+
+/* Class = "UILabel"; text = "Balance"; ObjectID = "bTw-nY-4IJ"; */
+"bTw-nY-4IJ.text" = "Balance";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cNQ-ML-SYa"; */
+"cNQ-ML-SYa.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Portfolio"; ObjectID = "cPa-gy-q4n"; */
+"cPa-gy-q4n.title" = "Portfolio";
+
+/* Class = "UITabBarItem"; title = "Portfolio"; ObjectID = "d2V-aD-qWd"; */
+"d2V-aD-qWd.title" = "Portfolio";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "dK8-Sk-SKn"; */
+"dK8-Sk-SKn.text" = "Password";
+
+/* Class = "UITabBarItem"; title = "Dashboard"; ObjectID = "dM6-2Y-0fK"; */
+"dM6-2Y-0fK.title" = "Dashboard";
+
+/* Class = "UILabel"; text = "1.00"; ObjectID = "diU-M3-sUw"; */
+"diU-M3-sUw.text" = "1.00";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "drb-6F-dFd"; */
+"drb-6F-dFd.title" = "Back";
+
+/* Class = "UIButton"; normalTitle = "SIGN UP"; ObjectID = "dxY-cs-rXh"; */
+"dxY-cs-rXh.normalTitle" = "SIGN UP";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "eCR-Kl-ANs"; */
+"eCR-Kl-ANs.text" = "Label";
+
+/* Class = "UILabel"; text = "UPLOAD DOCUMENTS"; ObjectID = "gZr-6O-ncY"; */
+"gZr-6O-ncY.text" = "UPLOAD DOCUMENTS";
+
+/* Class = "UILabel"; text = "RESIDENTIAL ADDRESS"; ObjectID = "jU3-Vg-HVj"; */
+"jU3-Vg-HVj.text" = "RESIDENTIAL ADDRESS";
+
+/* Class = "UINavigationItem"; title = "Profile Verification"; ObjectID = "lnM-C0-UM4"; */
+"lnM-C0-UM4.title" = "Profile Verification";
+
+/* Class = "UILabel"; text = "RP 0"; ObjectID = "mdI-xu-hPw"; */
+"mdI-xu-hPw.text" = "RP 0";
+
+/* Class = "UILabel"; text = "City"; ObjectID = "nFZ-gl-16D"; */
+"nFZ-gl-16D.text" = "City";
+
+/* Class = "UILabel"; text = "Country"; ObjectID = "qOY-dD-r0j"; */
+"qOY-dD-r0j.text" = "Country";
+
+/* Class = "UILabel"; text = "CITIZENSHIP"; ObjectID = "qOf-UA-iji"; */
+"qOf-UA-iji.text" = "CITIZENSHIP";
+
+/* Class = "UILabel"; text = "Name as stated in NRIC / Passport"; ObjectID = "uNb-O3-e9I"; */
+"uNb-O3-e9I.text" = "Name as stated in NRIC / Passport";
+
+/* Class = "UIButton"; normalTitle = "LOGIN"; ObjectID = "vP2-mG-C3w"; */
+"vP2-mG-C3w.normalTitle" = "LOGIN";
+
+/* Class = "UILabel"; text = "Second View"; ObjectID = "zEq-FU-wV5"; */
+"zEq-FU-wV5.text" = "Second View";

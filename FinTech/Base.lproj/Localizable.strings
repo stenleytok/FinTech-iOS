@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  FinTech
+
+  Created by Stenley Tok on 2/6/18.
+  Copyright © 2018 Stenley Tok. All rights reserved.
+*/
+
+"Login_EmailRequired" = "Email is required to login";
+"Login_EmailNotFound" = "Email address not found";
+"Login_PasswordRequired" = "Password is required to login";
+"SignUp_EmailRequired" = "Email is required to sign up";
+"SignUp_PasswordRequired" = "Password is required to sign up";
+
