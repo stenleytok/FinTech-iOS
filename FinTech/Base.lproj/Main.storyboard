@@ -226,7 +226,7 @@
                                                                 </state>
                                                                 <connections>
                                                                     <action selector="OnSignUpClicked:" destination="Z0n-h9-mNc" eventType="touchUpInside" id="95v-xU-Fkh"/>
-                                                                    <segue destination="4O4-Xd-V7E" kind="show" identifier="signUpSegue" id="LaD-Nz-kck"/>
+                                                                    <segue destination="4O4-Xd-V7E" kind="custom" identifier="signUpSegue" id="LaD-Nz-kck"/>
                                                                 </connections>
                                                             </button>
                                                         </subviews>
